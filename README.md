@@ -28,12 +28,45 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 
 ## 🧩 Sample Output Screenshots
 
-| Example Run | Screenshot |
-|--------------|-------------|
-| Program asking questions | ![Screenshot 1](Screenshot%20(1).png) |
-| Correct answers feedback | ![Screenshot 2](Screenshot%20(2).png) |
-| More question examples | ![Screenshot 3](Screenshot%20(3).png) |
-| GK version running | ![Screenshot 4](Screenshot%20(4).png) |
+### Program Starting - Question 1
+![Screenshot 1](Screenshot-1.jpg)
+*The program begins by asking the user's name and presents the first GK question.*
+
+---
+
+### Questions 2-3 in Progress
+![Screenshot 2](Screenshot-3.jpg)
+*The program shows instant feedback for correct answers and continues with the next questions.*
+
+---
+
+### Mid-Quiz - Questions 4-5
+![Screenshot 3](Screenshot-4.jpg)
+*More GK questions being answered with immediate feedback.*
+
+---
+
+### Continuing - Question 6
+![Screenshot 4](Screenshot-5.jpg)
+*The quiz progresses through all 10 questions with real-time validation.*
+
+---
+
+### Question 7 Progress
+![Screenshot 5](Screenshot-6.jpg)
+*Each correct answer is acknowledged with encouraging messages.*
+
+---
+
+### Question 8 Example
+![Screenshot 6](Screenshot-7.jpg)
+*The program continues to test general knowledge across various topics.*
+
+---
+
+### Final Questions - Question 9
+![Screenshot 7](Screenshot-8.jpg)
+*Nearing the end of the quiz with consistent feedback for each answer.*
 
 ---
 
@@ -48,4 +81,15 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ## 💡 Future Improvements
 - Add file handling to save name and score  
 - Add timer for each question  
-- Create a score leaderboard  
+- Create a score leaderboard
+- Add more question categories
+- Implement difficulty levels
+
+---
+
+## 📝 License
+This project is open-source and available for educational purposes.
+
+---
+
+**⭐ If you like this project, give it a star!**
