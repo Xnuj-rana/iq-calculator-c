@@ -1,0 +1,136 @@
+#include <stdio.h>
+
+int main() {
+    int score = 0, answer;
+
+    printf("===== Welcome to the GK IQ Calculator =====\n\n");
+    printf("Answer the following 10 questions (choose 1, 2, 3, or 4):\n\n");
+
+    // Q1
+    printf("1. Who is known as the Father of the Nation (India)?\n");
+    printf("1) Jawaharlal Nehru  2) Mahatma Gandhi  3) Subhash Chandra Bose  4) Bhagat Singh\n");
+    scanf("%d", &answer);
+    if (answer == 2) {
+        printf("✅ Correct! Great start.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Mahatma Gandhi.\n\n");
+    }
+
+    // Q2
+    printf("2. What is the capital of Japan?\n");
+    printf("1) Seoul  2) Beijing  3) Tokyo  4) Bangkok\n");
+    scanf("%d", &answer);
+    if (answer == 3) {
+        printf("✅ Correct! You’re smart.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Tokyo.\n\n");
+    }
+
+    // Q3
+    printf("3. Which planet is known as the Red Planet?\n");
+    printf("1) Venus  2) Mars  3) Jupiter  4) Mercury\n");
+    scanf("%d", &answer);
+    if (answer == 2) {
+        printf("✅ Correct! Well done.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Mars.\n\n");
+    }
+
+    // Q4
+    printf("4. Who wrote the National Anthem of India?\n");
+    printf("1) Rabindranath Tagore  2) Bankim Chandra Chatterjee  3) Sarojini Naidu  4) Lata Mangeshkar\n");
+    scanf("%d", &answer);
+    if (answer == 1) {
+        printf("✅ Correct! Nice one.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Rabindranath Tagore.\n\n");
+    }
+
+    // Q5
+    printf("5. Which is the largest ocean in the world?\n");
+    printf("1) Indian Ocean  2) Atlantic Ocean  3) Pacific Ocean  4) Arctic Ocean\n");
+    scanf("%d", &answer);
+    if (answer == 3) {
+        printf("✅ Correct! You know your geography!\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Pacific Ocean.\n\n");
+    }
+
+    // Q6
+    printf("6. Who was the first woman Prime Minister of India?\n");
+    printf("1) Indira Gandhi  2) Pratibha Patil  3) Sonia Gandhi  4) Sarojini Naidu\n");
+    scanf("%d", &answer);
+    if (answer == 1) {
+        printf("✅ Correct! You’re doing great.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Indira Gandhi.\n\n");
+    }
+
+    // Q7
+    printf("7. Which is the smallest continent?\n");
+    printf("1) Europe  2) Australia  3) Antarctica  4) Africa\n");
+    scanf("%d", &answer);
+    if (answer == 2) {
+        printf("✅ Correct! You’ve got a good memory.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Australia.\n\n");
+    }
+
+    // Q8
+    printf("8. How many colors are there in a rainbow?\n");
+    printf("1) 5  2) 6  3) 7  4) 8\n");
+    scanf("%d", &answer);
+    if (answer == 3) {
+        printf("✅ Correct! You’re shining bright.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: 7.\n\n");
+    }
+
+    // Q9
+    printf("9. What is the national animal of India?\n");
+    printf("1) Elephant  2) Tiger  3) Lion  4) Peacock\n");
+    scanf("%d", &answer);
+    if (answer == 2) {
+        printf("✅ Correct! Impressive.\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Tiger.\n\n");
+    }
+
+    // Q10
+    printf("10. Who invented the light bulb?\n");
+    printf("1) Alexander Graham Bell  2) Nikola Tesla  3) Thomas Edison  4) Albert Einstein\n");
+    scanf("%d", &answer);
+    if (answer == 3) {
+        printf("✅ Correct! Excellent finish!\n\n");
+        score++;
+    } else {
+        printf("❌ Wrong! Correct answer: Thomas Edison.\n\n");
+    }
+
+    // Final Score
+    printf("===== Result =====\n");
+    printf("You answered %d out of 10 questions correctly.\n", score);
+
+    int iq = score * 10 + 50;  // simple IQ calculation formula
+    printf("Your estimated IQ score is: %d\n", iq);
+
+    if (iq >= 120)
+        printf("🎉 Outstanding! You’re very intelligent.\n");
+    else if (iq >= 100)
+        printf("👏 Good job! You’re above average.\n");
+    else if (iq >= 80)
+        printf("🙂 Average IQ. Keep learning!\n");
+    else
+        printf("😅 Don’t worry, try again — knowledge grows with practice.\n");
+
+    return 0;
+}
