@@ -35,7 +35,8 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ---
 
 ### Questions 2-3 in Progress
-![Screenshot 2](Screenshot-3.jpg)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/0588498dfde7c206910870563184867e9879e5fe/Screenshot%20(5).png) 
+!
 *The program shows instant feedback for correct answers and continues with the next questions.*
 
 ---
