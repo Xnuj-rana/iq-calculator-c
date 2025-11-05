@@ -61,7 +61,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ---
 
 ### Question 8 Example
-![Screenshot 6](Screenshot-7.jpg)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/cae1bc80d39314f6c3174414b52fbf23cc244dc2/Screenshot%20(11).png)
 *The program continues to test general knowledge across various topics.*
 
 ---
