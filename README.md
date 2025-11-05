@@ -49,7 +49,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ---
 
 ### Continuing - Question 6
-![Screenshot 4](Screenshot-5.jpg)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/5e014be0462482023eb702000e17aab9424bbf26/Screenshot%20(9).png)
 *The quiz progresses through all 10 questions with real-time validation.*
 
 ---
