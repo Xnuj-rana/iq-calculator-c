@@ -55,7 +55,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ---
 
 ### Question 7 Progress
-![Screenshot 5](Screenshot-6.jpg)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/7bfecc16524a14d43635293a9f4a9b8a13fa3dd8/Screenshot%20(10).png)
 *Each correct answer is acknowledged with encouraging messages.*
 
 ---
