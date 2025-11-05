@@ -43,6 +43,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 
 ### Mid-Quiz - Questions 4-5
 ![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/c28ce467f6298547102a3cb4d91322f990422584/Screenshot%20(7).png)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/b86224ac821d1db4ce65da02108c77a170009a77/Screenshot%20(8).png)
 *More GK questions being answered with immediate feedback.*
 
 ---
