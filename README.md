@@ -76,7 +76,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 **Title:** IQ-Calculator-in-C  
 **Language:** C  
 **Level:** Beginner / Academic (BCA 1st Year)  
-**Author:** *Ankit*  
+**Author:** *Anuj*  
 
 ---
 
