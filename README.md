@@ -66,8 +66,8 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 
 ---
 
-### Final Questions - Question 9
-![Screenshot 7](Screenshot-8.jpg)
+### Final Questions - Question 9 , 10
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/59a5a337cfa8161f26f9da1cc977c8fe0a7c12fa/Screenshot%20(12).png)
 *Nearing the end of the quiz with consistent feedback for each answer.*
 
 ---
