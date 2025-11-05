@@ -29,7 +29,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ## 🧩 Sample Output Screenshots
 
 ### Program Starting - Question 1
-![Screenshot 1](Screenshot-1.jpg)
+![image alt](https://github.com/Xnuj-rana/iq-calculator-c/blob/8ebbd831c9141eed1f4c2c6a5dfa36d2ce03481c/Screenshot%20(4).png)
 *The program begins by asking the user's name and presents the first GK question.*
 
 ---
