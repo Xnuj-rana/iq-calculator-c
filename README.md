@@ -17,11 +17,7 @@ The program asks 10 questions, gives instant feedback after each one, and calcul
 ## ⚙️ How to Run
 1. Copy or download the code file: `gk_iq_calculator.c`  
 2. Open it in any C compiler (VS Code, OnlineGDB, Turbo C, etc.)  
-3. Compile and run using:
-   ```bash
-   gcc gk_iq_calculator.c -o gk_iq
-   ./gk_iq
-   ```
+3. Compile and run it.
 4. Answer the questions and see your IQ score!
 
 ---
